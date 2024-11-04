@@ -1,5 +1,5 @@
 # Knowledge_Representation
-# Python Programming Basics
+
 
 ## Introduction
 This repository demonstrates fundamental Python programming concepts and functionalities. The code snippets cover essential topics such as conditional statements, loops, functions, classes, and data structures, including lists, tuples, and dictionaries. Additional examples illustrate operations such as handling user input, manipulating strings, working with exceptions, and implementing control flow using `if-else` statements.
